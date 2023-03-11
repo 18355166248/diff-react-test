@@ -1,3 +1,12 @@
+## [1.2.3](https://github.com/18355166248/diff-react-test/compare/1.2.2...1.2.3) (2023-03-11)
+
+
+### 😌-测试  Features
+
+* 修改changelog3 ([](https://github.com/18355166248/diff-react-test/commit/d45591be6126dc39e81c6a6dacb47117ad867b03))
+
+
+
 ## [1.2.2](https://github.com/18355166248/diff-react-test/compare/1.2.1...1.2.2) (2023-03-11)
 
 
