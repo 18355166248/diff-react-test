@@ -1,3 +1,12 @@
+## [1.2.1](https://github.com/18355166248/diff-react-test/compare/1.2.0...1.2.1) (2023-03-11)
+
+
+### Features
+
+* 测试changelog ([917beef](https://github.com/18355166248/diff-react-test/commit/917beef5a5bbea59f9c5f821c03f6ac629939c82))
+
+
+
 # [1.2.0](https://github.com/18355166248/diff-react-test/compare/1.1.0...1.2.0) (2023-03-11)
 
 
