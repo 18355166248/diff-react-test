@@ -1,3 +1,13 @@
+## [1.2.2](https://github.com/18355166248/diff-react-test/compare/1.2.1...1.2.2) (2023-03-11)
+
+
+### Features
+
+* 测试changelog2 ([680abef](https://github.com/18355166248/diff-react-test/commit/680abef9d1d29d2e67afb459352e83d87c289aee))
+* 修改tag ([65d318b](https://github.com/18355166248/diff-react-test/commit/65d318bea70df1a5aff5ab274b8359309d259745))
+
+
+
 ## [1.2.1](https://github.com/18355166248/diff-react-test/compare/1.2.0...1.2.1) (2023-03-11)
 
 
