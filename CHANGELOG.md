@@ -1,3 +1,12 @@
+## [1.0.4](https://github.com/18355166248/diff-react-test/compare/1.0.3...1.0.4) (2023-03-11)
+
+
+### Features
+
+* 修改.npmrc ([f764280](https://github.com/18355166248/diff-react-test/commit/f764280264ea8b31c0eca786a05f534f5df75b9d))
+
+
+
 ## [1.0.3](https://github.com/18355166248/diff-react-test/compare/1.0.2...1.0.3) (2023-03-11)
 
 
