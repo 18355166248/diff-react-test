@@ -1,3 +1,12 @@
+## [1.0.2](https://github.com/18355166248/diff-react-test/compare/v1.0.1...v1.0.2) (2023-03-11)
+
+
+### Features
+
+* 测试tag配置名称 ([32e735e](https://github.com/18355166248/diff-react-test/commit/32e735e0dc8a174e1785104501dadf5e27635c99))
+
+
+
 ## 1.0.1 (2023-03-11)
 
 
