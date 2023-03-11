@@ -1,3 +1,12 @@
+# [1.2.0](https://github.com/18355166248/diff-react-test/compare/1.1.0...1.2.0) (2023-03-11)
+
+
+### Features
+
+* 修改生命周期命令 ([d6a3a30](https://github.com/18355166248/diff-react-test/commit/d6a3a30701d31e368cb10ca288c09237d705b050))
+
+
+
 # [1.1.0](https://github.com/18355166248/diff-react-test/compare/1.0.3...1.1.0) (2023-03-11)
 
 
