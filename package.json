@@ -4,10 +4,14 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "version": "conventional-changelog -p angular -n './changelog-config.js' -i CHANGELOG.md -s && git add CHANGELOG.md",
+    "changelog": "conventional-changelog -n './changelog-custom' -i CHANGELOG.md -s -r 0",
+    "version": "npm run changelog && git add CHANGELOG.md",
     "postversion": "git push & git push origin --tags"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "compare-func": "^2.0.0"
+  }
 }
